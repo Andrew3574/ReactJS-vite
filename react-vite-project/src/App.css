@@ -1,0 +1,14 @@
+header {
+    position: fixed;
+}
+
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+main{
+    position: relative;
+    margin-top: 100px;
+}

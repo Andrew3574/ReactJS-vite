@@ -1,0 +1,10 @@
+.btn{
+    margin: 0 10px;
+}
+.btn:hover{
+    box-shadow: 2px 2px;
+}
+
+.active{
+    background-color: yellow;
+}
